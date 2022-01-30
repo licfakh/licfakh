@@ -7,8 +7,8 @@
 <div align="center" style="display: inline_block">
     <img  width="500em"   src="img/welcome-to-my-github.png" alt="vlad vlad70024 V70024 70024"/><br>
     <img  height="140em"  src="https://github-readme-stats.vercel.app/api?username=licfakh&show_icons=true&theme=aura" alt="licfakh Abolfazl "/>
-    <img  height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=licfakh4&layout=compact&show_icons=true&theme=aura" alt="Abolfazl"/><br>
-    <img  width="790em"  src="https://activity-graph.herokuapp.com/graph?usernamelicfakh&theme=react-dark" alt="licfakh Abolfazl"/>
+    <img  height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=licfakh&layout=compact&show_icons=true&theme=aura" alt="Abolfazl"/><br>
+    <img  width="790em"  src="https://activity-graph.herokuapp.com/graph?username=licfakh&theme=react-dark" alt="licfakh Abolfazl"/>
 </div>
 
 
