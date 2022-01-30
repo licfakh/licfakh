@@ -36,14 +36,5 @@
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
-<br><br><br>
-#### **if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈**
-
-<a href="https://www.buymeacoffee.com/V70024" target="_blank"><img src="img/BUY-ME-A-COFFEE-EN.PNG" alt="Buy Me A Coffee" width="180" ></a>
-<a href="https://www.coffeete.ir/V70024" target="_blank"><img src="img/BUY-ME-A-COFFEE-FA.PNG" alt="یه قهوه من رو مهمون کن" width="180" ></a>
-
-
-
-<br><br><br>
 
 ![Bitcoin](https://img.shields.io/github/followers/V70024.svg?style=social&label=Follow&maxAge=2592000)
