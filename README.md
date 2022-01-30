@@ -37,4 +37,4 @@
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
 
-![Bitcoin](https://img.shields.io/github/followers/V70024.svg?style=social&label=Follow&maxAge=2592000)
+![Bitcoin](https://img.shields.io/github/followers/licfakh.svg?style=social&label=Follow&maxAge=2592000)
